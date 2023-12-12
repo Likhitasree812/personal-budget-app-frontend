@@ -1,0 +1,15 @@
+.page-header {
+    /* background-color: antiquewhite; */
+}
+
+.page-title {
+    font-size: 35px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+li {
+    margin-left: 20px;
+}

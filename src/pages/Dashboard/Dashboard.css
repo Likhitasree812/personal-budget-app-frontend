@@ -1,0 +1,7 @@
+.piechart {
+    height: 400px;
+}
+
+.piechart  canvas {
+    margin: auto;
+}
