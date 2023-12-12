@@ -84,7 +84,7 @@ const Header = () => {
             </Link>
           </div>
 
-          <ul className="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+          <ul className="normallinks nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
             <li>
               <Link to="/" className="nav-link px-2 link-secondary">
                 <b>Home</b>
